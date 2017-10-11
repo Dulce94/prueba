@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background: url(images/gray.jpg)no-repeat
+}
+
+h6 {
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+h7 {
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    font-size: 30px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.articulo {
+    color: #fff;
+    text-align: center;
+    font-weight: 50;
+    font-size: 25px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px
+}
+
